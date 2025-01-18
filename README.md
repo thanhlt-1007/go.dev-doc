@@ -17,3 +17,7 @@
 ### [Tutorial: Create a module](https://github.com/thanhlt-1007/go.dev-doc-tutorial-create-module)
 
 - A tutorial of short topics introducing functions, error handling, arrays, maps, unit testing, and compiling.
+
+### [Tutorial: Getting started with multi-module workspaces](https://github.com/thanhlt-1007/go.dev-doc-tutorial-workspaces)
+
+- Introduces the basics of creating and using multi-module workspaces in Go. Multi-module workspaces are useful for making changes across multiple modules.
