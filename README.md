@@ -21,3 +21,7 @@
 ### [Tutorial: Getting started with multi-module workspaces](https://github.com/thanhlt-1007/go.dev-doc-tutorial-workspaces)
 
 - Introduces the basics of creating and using multi-module workspaces in Go. Multi-module workspaces are useful for making changes across multiple modules.
+
+### [Tutorial: Developing a RESTful API with Go and Gin](https://github.com/thanhlt-1007/go.dev-doc-tutorial-web-service-gin)
+
+- Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework.
