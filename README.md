@@ -26,6 +26,10 @@
 
 - Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework.
 
-### [Tutorial: Getting started with generics](https://github.com/thanhlt-1007/https-go.dev-doc-tutorial-generics)
+### [Tutorial: Getting started with generics](https://github.com/thanhlt-1007/go.dev-doc-tutorial-generics)
 
 - With generics, you can declare and use functions or types that are written to work with any of a set of types provided by calling code.
+
+### [Tutorial: Getting started with fuzzing](https://github.com/thanhlt-1007/go.dev-doc-tutorial-fuzz)
+
+- Fuzzing can generate inputs to your tests that can catch edge cases and security issues that you may have missed.
