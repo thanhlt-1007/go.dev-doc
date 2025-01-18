@@ -25,3 +25,7 @@
 ### [Tutorial: Developing a RESTful API with Go and Gin](https://github.com/thanhlt-1007/go.dev-doc-tutorial-web-service-gin)
 
 - Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework.
+
+### [Tutorial: Getting started with generics](https://github.com/thanhlt-1007/https-go.dev-doc-tutorial-generics)
+
+- With generics, you can declare and use functions or types that are written to work with any of a set of types provided by calling code.
