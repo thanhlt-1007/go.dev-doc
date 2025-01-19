@@ -33,3 +33,7 @@
 ### [Tutorial: Getting started with fuzzing](https://github.com/thanhlt-1007/go.dev-doc-tutorial-fuzz)
 
 - Fuzzing can generate inputs to your tests that can catch edge cases and security issues that you may have missed.
+
+### [Writing Web Applications]()
+
+- Building a simple web application.
