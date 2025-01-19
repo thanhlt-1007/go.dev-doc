@@ -37,3 +37,7 @@
 ### [Writing Web Applications]()
 
 - Building a simple web application.
+
+### [How to write Go code]()
+
+- This doc explains how to develop a simple set of Go packages inside a module, and it shows how to use the go command to build and test packages.
